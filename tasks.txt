@@ -1,0 +1,18 @@
+Serial No Task Name           Status         Created Date        Due Date            Completed Date      Steps
+------------------------------------------------------------------------------------------------------------------------
+1         End Sem Exam        Completed      2025-04-10 16:14    2025-04-19 08:00    2025-04-10 16:15    SC;RNTV;EM
+2         Gym Workout         Pending        2025-04-10 16:35    2025-04-11 18:00                        Warm-up;Cardio;Weights
+3         Code Review         Pending        2025-04-10 16:40    2025-04-12 14:00                        Check;Test;Feedback
+4         Study Group Meet    Completed      2025-04-10 16:50    2025-04-13 15:00    2025-04-10 16:34    Prep;Discuss;Notes
+5         Email Professor     Pending        2025-04-10 16:55    2025-04-11 09:00                        Draft;Review;Send
+6         Fix Bug in Code     Pending        2025-04-10 17:00    2025-04-14 10:00                        Debug;Test;Commit
+7         Write Blog Post     Pending        2025-04-10 04:05    2025-04-16 12:00                        Outline;Draft;Publish
+8         Plan Weekend Trip   Pending        2025-04-10 04:10    2025-04-12 09:00                        Research;Book;Pack
+9         Update Resume       Pending        2025-04-10 04:15    2025-04-14 15:00                        Revise;Format;Proofread
+10        Clean Apartment     Pending        2025-04-10 04:20    2025-04-11 17:00                        Vacuum;Dust;Organize
+11        Learn Python Class  Pending        2025-04-10 04:25    2025-04-17 18:00                        Watch;Practice;Review
+12        Team Meeting Prep   Pending        2025-04-10 04:30    2025-04-11 14:00                        Agenda;Slides;Rehearse
+13        Grocery Budget      Pending        2025-04-10 04:35    2025-04-13 11:00                        List;Calculate;Shop
+14        Paint Sketch        Pending        2025-04-10 04:40    2025-04-15 20:00                        Sketch;Color;Finish
+15        Call Family         Pending        2025-04-10 04:45    2025-04-10 19:00                        Plan;Call;Catch-up
+16        Backup Files        Completed      2025-04-10 04:50    2025-04-12 16:00    2025-04-10 16:35    Sort;Transfer;Verify
